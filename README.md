@@ -1,8 +1,8 @@
 To learn and test:
-- Hugging face Space
+- Huggingface Space
 - GitHub Action
 - Cloudflare
-  - Compute & AI / Workers @ pages
+  - Compute & AI / Workers & pages
   - CDN middle layer
   - Custom domain
 
